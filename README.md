@@ -4,6 +4,12 @@ Combat Encounter Simulations and Balancing for Traveller RPG
 
 This repository uses `uv` for managing Python environments and dependencies. Ensure it is installed.
 
+# Documentation
+
+The Documentation is available live at - **https://crunchynewt.github.io/traveller-rpg-combat/**
+
+It is built from the `docs` folder on the `main` and hosted on GitHub Pages.
+
 # Repo Structure
 
 - `notebooks` contain Jupyter notebooks for analysis and exploration and prototypes.
