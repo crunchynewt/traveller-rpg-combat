@@ -1,4 +1,11 @@
 title: Traveller RPG Encounters
-remote_theme: just-the-docs/just-the-docs
-search_enabled: true
-color_scheme: light
+description: A Helper for Traveller RPG Encounter Planning and Balancing
+theme: just-the-docs
+
+url: https://crunchynewt.github.io/traveller-rpg-combat
+
+aux_links:
+  Template Repository: https://github.com/crunchynewt/traveller-rpg-combat
+
+plugins:
+  - jekyll-default-layout
