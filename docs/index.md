@@ -1,5 +1,9 @@
 ---
+layout: default
 title: Home
+description: Traveller RPG Encounter Planner
+nav_order: 1
+permalink: /
 ---
 
 # Traveller RPG Encounter Planner
