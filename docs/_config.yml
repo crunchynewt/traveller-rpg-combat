@@ -1,11 +1,2 @@
 title: Traveller RPG Encounters
-description: A Helper for Traveller RPG Encounter Planning and Balancing
-theme: just-the-docs
-
-url: https://crunchynewt.github.io/traveller-rpg-combat
-
-aux_links:
-  Template Repository: https://github.com/crunchynewt/traveller-rpg-combat
-
-plugins:
-  - jekyll-default-layout
+theme: jekyll-theme-cayman
