@@ -1,12 +1,8 @@
 ---
-layout: default
 title: Home
-description: Traveller RPG Encounter Planner
 nav_order: 1
-permalink: /
+url: https://crunchynewt.github.io/traveller-rpg-combat/
 ---
-
-# Traveller RPG Encounter Planner
 
 ![Traveller RPG Logo](assets/traveller_logo.png)
 
